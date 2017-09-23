@@ -1,3 +1,9 @@
+# Lists
+# The sequence can be any kind of sequence object or iterable,
+# including tuples and generators.
+# If you pass in another list, the list function makes a copy.
+# Note that Python creates a single new list every time you execute the [] expression.
+
 # creating lists
 my_list = ['assad', 'jawad', 'zubair']
 
